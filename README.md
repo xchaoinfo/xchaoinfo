@@ -1,5 +1,8 @@
-### Hi there 👋
+### xchaoinfo
 
+![xchaoinfo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xchaoinfo&show_icons=true)
+
+Hi there 👋, I'm xchaoinfo. Web Developer & Data Analyst
 <!--
 **xchaoinfo/xchaoinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
