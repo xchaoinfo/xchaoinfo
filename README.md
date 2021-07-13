@@ -1,8 +1,8 @@
 ### xchaoinfo
 
-![xchaoinfo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xchaoinfo&show_icons=true&include_all_commits=true&theme=dark)
+![xchaoinfo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xchaoinfo&show_icons=true&include_all_commits=true&theme=dark&exclude_repo=xchaoinfo.github.io,xchaoinfo.github.io-bak)
 
-![xchaoinfo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xchaoinfo&layout=compact&theme=dark)
+![xchaoinfo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xchaoinfo&layout=compact&theme=dark&exclude_repo=xchaoinfo.github.io,xchaoinfo.github.io-bak)
 
 Hi there 👋, I'm xchaoinfo. Web Developer & Data Analyst
 <!--
